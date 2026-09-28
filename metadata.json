@@ -1,0 +1,8 @@
+{
+  "name": "NAWI Test Report System SIH26035",
+  "description": "Indian Legal Metrology prototype for Non-Automatic Weighing Instruments (OIML R 76) type evaluation test reports, compliance validation, and repository.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
