@@ -1,0 +1,21 @@
+{
+  "name": "nawi-test-report-backend",
+  "version": "1.0.0",
+  "description": "Backend API for NAWI Test Report System (OIML R 76 / Indian Legal Metrology)",
+  "main": "src/server.js",
+  "type": "module",
+  "scripts": {
+    "start": "node src/server.js",
+    "dev": "node --watch src/server.js"
+  },
+  "dependencies": {
+    "bcryptjs": "^3.0.3",
+    "cors": "^2.8.5",
+    "docx": "^9.6.1",
+    "dotenv": "^17.2.3",
+    "express": "^4.21.2",
+    "jsonwebtoken": "^9.0.2",
+    "multer": "^2.0.2",
+    "pdfkit": "^0.17.2"
+  }
+}
